@@ -122,9 +122,8 @@ STATIC_URL = 'static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-<<<<<<< HEAD
 TEMP = "Tommy"
-=======
 TEMP = 'This is a test variable'
 MOTTO = 'RUSH_LAMBDAS'
->>>>>>> main
+HEY = "Brendon"
+
